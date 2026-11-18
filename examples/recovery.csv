@@ -1,0 +1,3 @@
+compartment,cells_total,cells_measured,rank_correlation,mean_absolute_error_od,mean_signed_error_od
+nuclear,58,58,0.99717001,0.011751676,-0.0011769552
+ring,58,58,0.99230982,0.010684116,-0.0023043363
